@@ -1,8 +1,8 @@
 polskie-radio-playlist-parser
 =============================
 
-Prosty parser list odtwarzanych utworów, publikowanych na stronach Polskiego Radia. Obs³uguje cztery g³ówne stacje (PR1, PR2, PR3, Czwórka), które udostêpniaj¹ listy od 1. stycznia 2008 r.
+Prosty parser list odtwarzanych utworÃ³w, publikowanych na stronach Polskiego Radia. ObsÅ‚uguje cztery gÅ‚Ã³wne stacje (PR1, PR2, PR3, CzwÃ³rka), ktÃ³re udostÄ™pniajÄ… listy od 1. stycznia 2008 r.
 
-Przyk³ad u¿ycia ilustruje metoda _test().
+PrzykÅ‚ad uÅ¼ycia ilustruje metoda _test().
 
-Autor modu³u nie jest w ¿aden sposób zwi¹zany z Polskim Radiem S.A.
+Autor moduÅ‚u nie jest w Å¼aden sposÃ³b zwiÄ…zany z Polskim Radiem S.A.
